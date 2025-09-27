@@ -9,7 +9,7 @@ A comprehensive web scraping and analysis tool for YouTube content that provides
 - **Channel Analysis**: Comprehensive channel information and recent videos
 - **Trending Content**: Scrape trending videos across different categories
 - **Comment Extraction**: Extract and analyze video comments for sentiment analysis
-
+ 
 ### 📊 Advanced Analytics
 - **Channel Performance Analysis**: Compare channels, analyze growth patterns, and identify success factors
 - **Sentiment Analysis**: AI-powered sentiment analysis of video comments with emotion detection
